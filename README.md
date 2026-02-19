@@ -7,7 +7,7 @@ Build a machine learning model to predict whether a person is at risk of heart d
 ### Dataset Used
 - **Source:** UCI Heart Disease Dataset (Kaggle Version)  
 - **Features Used:** Age, Sex, Chest Pain Type, Resting Blood Pressure, Cholesterol, Fasting Blood Sugar, Resting ECG, Maximum Heart Rate, ST Depression, Number of Major Vessels, Thalassemia, and others  
-- **Target Variable:** Presence of Heart Disease (0 = No Disease, 1 = Disease)
+- **Target Variable:** Presence of Heart Disease
 
 ### Models Applied
 - Logistic Regression  
